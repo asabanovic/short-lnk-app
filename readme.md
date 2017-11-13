@@ -1,3 +1,5 @@
-Short Link Application
+#Short Link Application
 
-	This is a short link app based off of a meteor app.
+	This is a short link app based on Meteor and React.
+
+Adnan Sabanovic
