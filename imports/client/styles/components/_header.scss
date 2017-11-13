@@ -1,0 +1,25 @@
+.header {
+	background: $brand-primary;
+	width: 100vw;
+}
+
+.header__inner {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	max-width: 600px;
+	padding: $space;
+	width: 100%;
+}
+
+.header__title {
+	color: white;
+	margin-bottom: 0px;
+}
+
+.header__link {
+	color: white;
+	font-weight: 100;
+	text-decoration: underline;
+}

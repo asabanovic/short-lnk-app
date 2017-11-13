@@ -1,0 +1,24 @@
+{
+  "name": "short-lnk",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "clipboard": "^1.7.1",
+    "history": "^4.7.2",
+    "meteor-node-stubs": "~0.2.4",
+    "moment": "^2.19.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-flip-move": "^2.9.17",
+    "react-modal": "^3.1.2",
+    "react-route": "^1.0.3",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "shortid": "^2.2.8",
+    "simpl-schema": "^0.3.2"
+  }
+}
